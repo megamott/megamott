@@ -16,8 +16,3 @@
 <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
 <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"/></a>
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white"/></a>
-<br>
-<br>
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api?username=megamott&show_icons=true&count_private=true&theme=dark" height="175">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megamott&layout=compact&theme=dark" height = "175">
