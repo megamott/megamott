@@ -2,14 +2,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Sabesan | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
-[<img align="left" alt="Sabesan | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />][whatsapp]
-[<img align="left" alt="Sabesan | Telegram" height="22px" src="./SocialLogo/Telegram.png" />][telegram]
-
 ---
-
 ### Languages and Tools:
-
 <p>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
     <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%230095D5.svg?logo=Kotlin&logoColor=white"></a>
@@ -22,9 +16,7 @@
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Linux" src="https://img.icons8.com/color/96/000000/linux.png"></a>
 </p>
-
 ---
-
 [linkedin]: https://www.linkedin.com/in/matvey-konoplyov-358333202/
 [gmail]: megamott27@gmail.com
 [whatsapp]: https://wa.me/+79856972755
